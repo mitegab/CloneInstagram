@@ -142,7 +142,7 @@ In the course we'll be using:
 
 <li><a href='https://goo.gl/CC1WvX'> Searching for Users</a></li>
 
-<li><a href='https://goo.gl/fFPB8M'> Viewing User Profiles</a></li>
+<li><a href='https://goo.gl/fFPB8M'> Viewng User Profiles</a></li>
 
 <li><a href='https://goo.gl/Wu6P9m'> View Profile Fragment</a></li>
 
