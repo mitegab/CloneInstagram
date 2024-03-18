@@ -1,7 +1,6 @@
 
 
-<p>
-In the course we'll be using:
+
 <ul>
   <li>Firebase Email Authentication</li>
   <li>Firebase Database</li>
